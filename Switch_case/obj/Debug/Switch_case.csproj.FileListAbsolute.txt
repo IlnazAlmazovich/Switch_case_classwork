@@ -1,0 +1,8 @@
+C:\Users\Пользователь\Desktop\Switch_case\Switch_case\bin\Debug\Switch_case.exe.config
+C:\Users\Пользователь\Desktop\Switch_case\Switch_case\bin\Debug\Switch_case.exe
+C:\Users\Пользователь\Desktop\Switch_case\Switch_case\bin\Debug\Switch_case.pdb
+C:\Users\Пользователь\Desktop\Switch_case\Switch_case\obj\Debug\Switch_case.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Switch_case\Switch_case\obj\Debug\Switch_case.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\Switch_case\Switch_case\obj\Debug\Switch_case.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Switch_case\Switch_case\obj\Debug\Switch_case.exe
+C:\Users\Пользователь\Desktop\Switch_case\Switch_case\obj\Debug\Switch_case.pdb
